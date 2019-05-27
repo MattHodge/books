@@ -35,7 +35,8 @@ The best things to continuously measure:
 * *Deployment frequency* - how often are we deploying changes to production (this change may include multiple commits).
 * *Mean time to restore* - how quickly can a service be restored.
 * *Change fail percentage* - what percentages of changes to production fail (resulted in degraded service or require remediation like hot fixes, patches, roll backs).
-eNPS used to measure “loyalty” (can use with our surveys)
+
+eNPS used to measure customer "loyalty". Useful way to measure internal developer happiness.
 
 You should also measure these blockers to continuous delivery:
 
