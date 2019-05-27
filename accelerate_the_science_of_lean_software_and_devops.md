@@ -15,6 +15,7 @@ Accelerate: The Science of Lean Software and DevOps: Building and Scaling High P
 - [Lean Product Development](#lean-product-development)
 - [Deployment Pain](#deployment-pain)
 - [Leadership](#leadership)
+- [Additional Resources](#additional-resources)
 
 <!-- /TOC -->
 ---
@@ -88,7 +89,7 @@ High performers are more likely to have the following capabilities:
 3 factors causing painful or brittle deployment processes:
 
 * Software not written with deployment in mind. Common symptom is when complex, orchestrated deployments are required due to the software expecting the environment and dependencies setup in a particular way. Gives little useful information on what is wrong and why it is failing to operate correctly
-* Probability of failed deployments failing rises substantially when manual changes must be made to production environments as part of the deployment process. (Errors caused by typing things wrong, poor docs)
+* Probability of deployments failing rises substantially when manual changes must be made to production environments as part of the deployment process. (Errors caused by typing things wrong, poor docs)
 * Handoffs between teams (ops, dev, sec, dba)
 
 To reduce deployment pain:
@@ -115,3 +116,7 @@ To improve/enable cross-functionality collaboration:
 * Build trust with other teams. Keep promises, keep communication open and behave predictably
 * Encourage people to move between teams and departments
 * Seek, encourage and rewarding work that facilitates communication
+
+## Additional Resources
+
+* [How technology capabilities tie into everything else in an organization](https://devops-research.com/assets/transformation_practices.pdf)
