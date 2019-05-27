@@ -85,7 +85,7 @@ High performers are more likely to have the following capabilities:
 
 ## Deployment Pain
 
-3 factors causing painful or brittle deployment processes
+3 factors causing painful or brittle deployment processes:
 
 * Software not written with deployment in mind. Common symptom is when complex, orchestrated deployments are required due to the software expecting the environment and dependencies setup in a particular way. Gives little useful information on what is wrong and why it is failing to operate correctly
 * Probability of failed deployments failing rises substantially when manual changes must be made to production environments as part of the deployment process. (Errors caused by typing things wrong, poor docs)
@@ -106,7 +106,7 @@ Investing in the following to accelerate teams:
 * Training budget
 * Tech conferences
 * Internal hack days for cross functional collaboration
-* “Yak days” - work together to kill technical debt
+* "Yak days" - work together to kill technical debt
 * DevOps mini conferences. Talks and open spaces to work on particular topics
 * Dedicated 20% time to work on own ideas
 
